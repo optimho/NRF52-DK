@@ -1,1 +1,8 @@
 This is a git repo that contains examples for the nrf52
+
+To ensure that this works, navigate to the examples folder in the nRF52 SDK folder and make a folder called my_projects and pull these into that folder, 
+then they will look similar to my setup.
+
+For some additional basic notes follow
+![alt text](https://www.evernote.com/shard/s136/sh/31e0c125-8b52-4d3c-8148-4e9282bdfe49/6a0cbe8f68fd59bdb12b533828425c30)
+
